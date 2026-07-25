@@ -4,7 +4,7 @@ Native Win32 application (Unicode, x64) for browsing processes, their loaded mod
 No frameworks, no external dependencies — plain WinAPI.
 
 <p align="center">
-  <img src="preview.png" alt="ProcInspector" width="900">
+  <img src="preview2.png" alt="ProcInspector" width="900">
 </p>
 
 ## Features
